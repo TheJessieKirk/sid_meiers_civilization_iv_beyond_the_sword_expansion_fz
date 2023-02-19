@@ -207,7 +207,7 @@
 
 ## 2.1. Music
 
-**“Beethoven Symphony No. 3 in E♭ major, Op. 55”**
+**“Beethoven Symphony No. 3 in E♭ major, Op. 55 (Sinfonia Eroica)”**
 
 * *I. Allegro con brio (in E♭ major)*
 * *II. Marcia funebre: Adagio assai (in C minor)*
