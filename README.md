@@ -207,6 +207,16 @@
 
 ## 2.1. Music
 
+**“Beethoven Symphony No. 3 in E♭ major, Op. 55”**
+
+* *I. Allegro con brio (in E♭ major)*
+* *II. Marcia funebre: Adagio assai (in C minor)*
+* *III. Scherzo: Allegro vivace (in E♭ major)*
+* *IV. Finale: Allegro molto (in E♭ major)*
+
+Composition © 1803–1804 Ludwig van Beethoven. Public Domain.<br>
+Sound Recording ℗ 2012 [ČNSO](http://www.cnso.cz/). Used under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
 **“Beethoven Symphony No. 5 in C minor, Op. 67”**
 
 * *I. Allegro con brio (in C minor)*
@@ -215,4 +225,4 @@
 * *IV. Allegro – Presto (in C major)*
 
 Composition © 1804–1808 Ludwig van Beethoven. Public Domain.<br>
-Sound Recording ℗ 2002 [Fuldaer Symphonisches Orchester](https://www.facebook.com/fso.fulda). Licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
+Sound Recording ℗ 2002 [Fuldaer Symphonisches Orchester](https://www.facebook.com/fso.fulda). Used under [Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
